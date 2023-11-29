@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://note-eric.github.io/sitemap.xml
+Sitemap: https://gate-story.github.io/sitemap.xml

@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
     <title>南觀×難關×喃倌 - 個案分享</title>
     <subtitle>一個桃李滿天”嚇”教師的日常</subtitle>
-    <link href="https://note-eric.github.io/categories/ge-an-fen-xiang/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://note-eric.github.io"/>
+    <link href="https://gate-story.github.io/categories/ge-an-fen-xiang/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://gate-story.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2011-09-02T00:00:00+00:00</updated>
-    <id>https://note-eric.github.io/categories/ge-an-fen-xiang/atom.xml</id>
+    <id>https://gate-story.github.io/categories/ge-an-fen-xiang/atom.xml</id>
     <entry xml:lang="zh">
         <title>001「承」的故事</title>
         <published>2011-09-02T00:00:00+00:00</published>
@@ -14,10 +14,10 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://note-eric.github.io/001-cheng-de-gu-shi/" type="text/html"/>
-        <id>https://note-eric.github.io/001-cheng-de-gu-shi/</id>
+        <link rel="alternate" href="https://gate-story.github.io/001-cheng-de-gu-shi/" type="text/html"/>
+        <id>https://gate-story.github.io/001-cheng-de-gu-shi/</id>
         
-        <summary type="html">&lt;h2 id=&quot;zhi-jiao-zheng-xue-xiao-de-hai-zi-001-cheng-de-gu-shi&quot;&gt;&lt;strong&gt;致矯正學校的孩子 ～ 001「承」的故事&lt;&#x2F;strong&gt;&lt;&#x2F;h2&gt;
+        <summary type="html">&lt;h3 id=&quot;zhi-jiao-zheng-xue-xiao-de-hai-zi-001-cheng-de-gu-shi&quot;&gt;&lt;strong&gt;致矯正學校的孩子 ～ 001「承」的故事&lt;&#x2F;strong&gt;&lt;&#x2F;h3&gt;
 &lt;p&gt;大家好，我是 承，很榮幸透過主任邀請，在這裡和同學們說說話，除了祝福同學們都能早日返鄕，學業進步外，我還想和同學們分享我的故事，希望大家能耐心聽完我的故事。&lt;&#x2F;p&gt;
 </summary>
         
