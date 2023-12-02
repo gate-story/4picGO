@@ -5,8 +5,25 @@
     <link href="https://gate-story.github.io/tags/a-jiao-zheng-jiao-yu/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://gate-story.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-11-18T00:00:00+00:00</updated>
+    <updated>2023-12-02T00:00:00+00:00</updated>
     <id>https://gate-story.github.io/tags/a-jiao-zheng-jiao-yu/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>什麼是少年矯正學校</title>
+        <published>2023-12-02T00:00:00+00:00</published>
+        <updated>2023-12-02T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://gate-story.github.io/shi-mo-shi-shao-nian-jiao-zheng-xue-xiao/" type="text/html"/>
+        <id>https://gate-story.github.io/shi-mo-shi-shao-nian-jiao-zheng-xue-xiao/</id>
+        
+        <summary type="html">&lt;img src=&quot;https:&#x2F;&#x2F;gs-foto.s3.ap-southeast-2.amazonaws.com&#x2F;upload&#x2F;%E4%BB%80%E9%BA%BC%E6%98%AF%E5%B0%91%E5%B9%B4%E7%9F%AF%E6%AD%A3%E5%AD%B8%E6%A0%A1.jpg&quot; width=&quot;900&quot;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;「老師，阿你們又不是不知道我們以前都是不愛唸書的學生，就算去學校也沒在讀書啦！被關就很累了，你們還要我們學國文、英文、數學……，真的很討厭讀書吶……」矯正學校是單純的學校教育嗎？&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</summary>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>矯正學校學生下課後的休閒活動</title>
         <published>2023-11-18T00:00:00+00:00</published>
@@ -23,17 +40,34 @@
         
     </entry>
     <entry xml:lang="zh">
-        <title>113年8月 開學典禮</title>
+        <title>112年8月 開學典禮</title>
         <published>2023-08-31T00:00:00+00:00</published>
         <updated>2023-08-31T00:00:00+00:00</updated>
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://gate-story.github.io/kai-xue-dian-li/" type="text/html"/>
-        <id>https://gate-story.github.io/kai-xue-dian-li/</id>
+        <link rel="alternate" href="https://gate-story.github.io/1120831kai-xue-dian-li/" type="text/html"/>
+        <id>https://gate-story.github.io/1120831kai-xue-dian-li/</id>
         
         <summary type="html">&lt;p&gt;校長、副校長、祕書、各位教職同仁、各位同學，大家好：&lt;&#x2F;p&gt;
 &lt;p&gt;新的學期開學了！在此，依慣例要給同學們新學期的勉勵！&lt;&#x2F;p&gt;
+&lt;p&gt;最近網路上「山道猴子」的影片很紅，影片內容談到理財、貸款、改車、交女朋友、ＩＧ點閱追蹤數、出軌分手、朋友兄弟等議題，反應了現代人在人生中可能遇到的種種議題：包含理財、愛情、友情、歸屬感、自尊和工作等。雖然許多同學還沒有看過影片，但今天我要和大家分享我看了這個影片的心得。&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>112 年2 月14 日開學典禮～自律的人，才能擁有真正的自由</title>
+        <published>2023-02-14T00:00:00+00:00</published>
+        <updated>2023-02-14T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://gate-story.github.io/1120214kai-xue-dian-li-zi-lu-de-ren-cai-neng-yong-you-zhen-zheng-de-zi-you/" type="text/html"/>
+        <id>https://gate-story.github.io/1120214kai-xue-dian-li-zi-lu-de-ren-cai-neng-yong-you-zhen-zheng-de-zi-you/</id>
+        
+        <summary type="html">&lt;p&gt;校長、副校長、祕書、各位教職同仁、各位同學，大家好：&lt;&#x2F;p&gt;
+&lt;p&gt;112學年度下學期開始了！在此，一樣要給同學們新學期的勉勵！&lt;&#x2F;p&gt;
+&lt;p&gt;###&lt;strong&gt;自律的人，才能擁有真正的自由&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 </summary>
         
     </entry>
